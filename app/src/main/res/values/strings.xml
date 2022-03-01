@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Dalily</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="navigation_view_open">Open navigation drawer</string>
+    <string name="navigation_view_close">Close navigation drawer</string>
+    <string name="profile_title">Name</string>
+    <string name="profile_description">Description</string>
+    <string name="profile_address">Address</string>
+    <string name="Signup">Signup</string>
+    <string name="edit">edit</string>
+    <string name="profile_phone_Number">Phone number</string>
+    <string name="text_view_description">Mention services and products you offer:</string>
+    <string name="Required">Required</string>
+    <string name="get_location">Get location</string>
+    <string name="service_kind">Service kind</string>
+    <string name="spinner_service_type">Choose your service type</string>
+    <string name="you_have_to_grantee_permission">You have to grantee permission to continue</string>
+    <string name="locating">Locating...</string>
+    <string name="you_have_to_enable_gps">You have to enable gps</string>
+    <string name="phone1">phone1</string>
+    <string name="phone2">phone2</string>
+    <string name="locate">locate</string>
+    <string name="distance">distance</string>
+    <string name="m">m</string>
+    <string name="log_out">Log out</string>
+    <string name="change">Change</string>
+    <string-array name="services_type">
+        <item>Cafe</item>
+        <item>Restaurant</item>
+        <item>Super market</item>
+        <item>Grocery</item>
+        <item>Bakeries</item>
+        <item>Meat store</item>
+        <item>Pharmacy</item>
+        <item>Clothes store</item>
+        <item>Gym</item>
+        <item>Playstation</item>
+        <item>Laundry</item>
+    </string-array>
+
+</resources>

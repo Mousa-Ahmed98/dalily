@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دليلي</string>
+    <string name="todo">ليفعل</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="navigation_view_open">فتح</string>
+    <string name="navigation_view_close">اغلاق</string>
+    <string name="profile_title">الإسم</string>
+    <string name="Signup">إشتراك</string>
+    <string name="edit">تعديل</string>
+    <string name="profile_description">وصف الخدمة</string>
+    <string name="profile_address">العنوان</string>
+    <string name="profile_phone_Number">موبايل</string>
+    <string name="username">إسم المستخدم</string>
+    <string name="text_view_description">اذكر الخدمات و المنتجات التي تقدمها</string>
+    <string name="Required">مطلوب</string>
+    <string name="get_location">تحديد المكان</string>
+    <string name="service_kind">نوع الخدمة</string>
+    <string name="spinner_service_type">إختر نوع الخدمة</string>
+    <string name="you_have_to_grantee_permission">يجب عليك إعطاء الإذن للإستمرار</string>
+    <string name="locating">جار تحديد الموقع...</string>
+    <string name="you_have_to_enable_gps">يجب تشغيل نظام تحيد الموقع</string>
+
+    <string-array name="services_type">
+        <item>مقهى</item>
+        <item>مطعم</item>
+        <item>سوبر ماركت</item>
+        <item>محل خضراوات</item>
+        <item>مخبز</item>
+        <item>محل لحوم</item>
+        <item>صيدلية</item>
+        <item>محل ملابس</item>
+        <item>صالة تدريب بدني</item>
+        <item>بلاي ستيشن</item>
+        <item>مغسلة</item>
+    </string-array>
+    <string name="phone1">موبايل1</string>
+    <string name="phone2">موبايل2</string>
+    <string name="locate">حدد الموقع</string>
+    <string name="distance">المسافة</string>
+    <string name="m">م</string>
+
+
+</resources>

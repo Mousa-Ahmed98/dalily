@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102529752356",
+    "project_id": "dalily-5650e",
+    "storage_bucket": "dalily-5650e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102529752356:android:62aad0030e0e588d9227b1",
+        "android_client_info": {
+          "package_name": "com.example.dalily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102529752356-c2naoocpvrln2ih7r9vcdlu3i4lvk2ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0v8_eT-RCXrJ9GfWhxNguS1GnffpV7OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102529752356-c2naoocpvrln2ih7r9vcdlu3i4lvk2ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
